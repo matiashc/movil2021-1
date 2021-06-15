@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">movil2021-1</string>
+    <string name="txtusuario">Digite Usuario</string>
+    <string name="txtclave">Digite la Clave</string>
+    <string name="btnsesion">Iniciar</string>
+    <string name="txtnousuario">No tiene usuario,  </string>
+    <string name="txtcrearusuario"> cree uno aquí</string>
+    <string name="txtolvidoclave">Olvido la clave, </string>
+    <string name="txtrecuperarclave">Recuperela aquí</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Before you can use Material tabs, you need to add a dependency to the Material Components for Android library. For more information, go to the Getting started page.</string>
+    <string name="content_description_media">Imagen Libro</string>
+    <string name="title">Libro Java Básico</string>
+    <string name="descripcion">Libro con los conceptos básicos de la programación en Java</string>
+    <string name="isbn">ISBN-1342567</string>
+    <string name="lista">Libros</string>
+    <string name="favorito">Favoritos</string>
+    <string name="perfil">Perfil</string>
+    <string name="msgtitulo">Digite el Titulo</string>
+    <string name="msgdescripcion">Digite Descripcion</string>
+    <string name="msgisbn">ISBN</string>
+    <string name="top_app_bar">Libros</string>
+    <string name="msgid">Digite Id</string>
+</resources>

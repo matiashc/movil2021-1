@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "76404920714",
+    "project_id": "movil2021-59064",
+    "storage_bucket": "movil2021-59064.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76404920714:android:0a1ae770433152da8db873",
+        "android_client_info": {
+          "package_name": "co.edu.ufps.movil2021_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76404920714-0c9lpcduumt3l05qbkebhgkntp1tcsq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzPDffNNR4D_2XLb7eay02sxNrJtuyXLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76404920714-0c9lpcduumt3l05qbkebhgkntp1tcsq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
